@@ -26,9 +26,9 @@
 <body>
 
 <header>
-  <a href="../index.html" class="logo" style="font-weight:700">HospitalCare+</a>
+  <a href="../index.php" class="logo" style="font-weight:700">HospitalCare+</a>
   <div>
-    <a href="dashboard.html" style="color:#667;text-decoration:none">Back to Dashboard</a>
+    <a href="dashboard.php" style="color:#667;text-decoration:none">Back to Dashboard</a> | <a href="../index.php" style="color:#667;text-decoration:none">Home</a>
   </div>
 </header>
 
